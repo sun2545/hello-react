@@ -8,4 +8,5 @@ When click '+'
 ![2](https://user-images.githubusercontent.com/26092150/43369036-b7907fe0-9334-11e8-9a4d-f9520b1b98f4.JPG)
 
 When click '-'
-![3](https://user-images.githubusercontent.com/26092150/43369037-b79f5c54-9334-11e8-9737-611a9b60a34b.JPG)
+![3](https://user-images.githubusercontent.com/26092150/43369053-02e81f66-9335-11e8-9ae0-1ee800de09e3.JPG)
+
