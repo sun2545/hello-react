@@ -1,14 +1,9 @@
 # hello-react
 
-Default page
+Default page              When click '+'      When click '-'
 
 ![5](https://user-images.githubusercontent.com/26092150/43369277-4425e70c-9339-11e8-9bda-58f552d61183.JPG)
-
-When click '+'
-
 ![6](https://user-images.githubusercontent.com/26092150/43369278-443726d4-9339-11e8-8d57-161a1224be37.JPG)
-
-When click '-'
 ![7](https://user-images.githubusercontent.com/26092150/43369279-44549bec-9339-11e8-83fe-015b8c73acfc.JPG)
 
 # Happen error
