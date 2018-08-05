@@ -7,3 +7,6 @@
 ## PhoneInfo and PhoneInfoList
 ![1](https://user-images.githubusercontent.com/26092150/43603373-c3073560-9660-11e8-9448-c8863af337b2.JPG)
 ![2](https://user-images.githubusercontent.com/26092150/43603374-c3218474-9660-11e8-94d0-73fdabca518b.JPG)
+
+## make delete
+![1](https://user-images.githubusercontent.com/26092150/43688966-d767e984-98c0-11e8-8510-666f711b6af2.JPG)
