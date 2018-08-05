@@ -9,4 +9,5 @@
 ![2](https://user-images.githubusercontent.com/26092150/43603374-c3218474-9660-11e8-94d0-73fdabca518b.JPG)
 
 ## make delete
+![1](https://user-images.githubusercontent.com/26092150/43688979-1d0cd22e-98c1-11e8-9f2c-25c7251dfa0f.JPG)
 ![1](https://user-images.githubusercontent.com/26092150/43688966-d767e984-98c0-11e8-8510-666f711b6af2.JPG)
